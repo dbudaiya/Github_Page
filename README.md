@@ -1,5 +1,7 @@
 ## JQBTDSBN
 
+发布地址 https://dbudaiya.github.io/Github_Page/
+
 使用到相关技术
 https://www.bootcdn.cn/ cdn 使用相关网链
 bootstrap v4.4.1 https://v4.bootcss.com/
